@@ -3,7 +3,7 @@ An unofficial OpenMoE reproduction with native PyTorch in the HuggingFace style.
 
 The official PyTorch implementation, with Colossal AI, can be found in [OpenMoE](https://github.com/XueFuzhao/OpenMoE).
 
-My reproduction focuses on simplifying integration with HuggingFace and other codebases.
+My reproduction focuses on simplifying integration with HuggingFace and PyTorch only.
 
 
 ## Example
